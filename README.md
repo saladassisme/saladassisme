@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔫 I deal with algorithms, software products and big data.
 - 🔭 I’m currently working on using machine learning algorithms to solve industrial problems. 
 - 🌱 I’m currently learning web3, web development and optimization methods.
-- 🎃 I'm into tech / lifestyle / coffee / karaoke.
+- 🎃 I'm into tech / lifestyle / coffee / karaoke.   
 - 🎀 I can speak Japanese,English and a little bit Spanish
 - ⚡ Fun fact: born in 1999 / based in Shanghai, China / infj-a / ♉Taurus / Gallup top 5 strengths: Learner→Significance→Ideation→Connectedness→Intelection
 - 📫 How to reach me: [blog](https://hugo-stack-theme-mod-phi.vercel.app/) | [douban](https://www.douban.com/people/163381607/?_i=1559361moRsVO2) | [bilibili](https://space.bilibili.com/18235453) | wechat: xt-otk-510
