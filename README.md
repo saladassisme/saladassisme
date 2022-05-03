@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 I'm Armstrong
+### Hi there 👋 I'm Armstrong
 [![Mail Badge](https://img.shields.io/badge/-xuting0510@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xuting0510@gmail.com)](mailto:xuting0510@gmail.com)
 - 🔫 I deal with algorithms, software products and big data.
 - 🔭 I’m currently working on using machine learning algorithms to solve industrial problems. 
