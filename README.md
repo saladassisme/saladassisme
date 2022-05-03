@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 🎀 想成为牛郎店的妈妈桑，想养一只伯恩山一只德牧一只玳瑁
 
 ### Contact Me
- [blog](https://hugo-stack-theme-mod-phi.vercel.app/)| [douban](https://www.douban.com/people/163381607/?_i=1559361moRsVO2)| [bilibili](https://space.bilibili.com/18235453)| wechat: xt-otk-510
+ [blog](https://hugo-stack-theme-mod-phi.vercel.app/) | [douban](https://www.douban.com/people/163381607/?_i=1559361moRsVO2) | [bilibili](https://space.bilibili.com/18235453) | wechat: xt-otk-510
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
