@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **saladassisme/saladassisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,6 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 [![Mail Badge](https://img.shields.io/badge/-xuting0510@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xuting0510@gmail.com)](mailto:xuting0510@gmail.com)
-
-<img align="right" alt="GIF" src="https://mmbiz.qpic.cn/mmbiz_gif/fFcMppTianHHgtFuw4GtAPGfkD9WD2Q0qCMchbPtYFu6VWASV47j7fe7ndR4TwMqZI7lgWyS4zORS5ibZgAjZKibA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1" />
 
 ### I'm Armstrong
 - 🌱 一个和产品、算法、数据打交道的人,to B/区块链/web3/工业/能源
