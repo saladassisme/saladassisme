@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web3, web development and optimization methods.
 - 🎃 I'm into tech / lifestyle / coffee / karaoke.   
 - 🎀 I can speak Japanese, English and a little bit Spanish.
-- ⚡ Fun fact: 1999 / infj-a / ♉Taurus / based in Shanghai, China / Gallup top 5 strengths: Learner→Significance→Ideation→Connectedness→Intelection
+- ⚡ Fun fact: 1999 / infj-a / ♉Taurus / based in Shanghai, China / Gallup top 5 strengths: Learner → Significance → Ideation → Connectedness → Intelection
 - 📫 How to reach me: [blog](https://hugo-stack-theme-mod-phi.vercel.app/) | [douban](https://www.douban.com/people/163381607/?_i=1559361moRsVO2) | [bilibili](https://space.bilibili.com/18235453) | wechat: xt-otk-510
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
