@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuting0510@gmail.com)
 [![TG Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zarmstrong)
 [![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](xt-otk-510)
-[![Blog Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://hugo-stack-theme-mod-phi.vercel.app/)
+[![Blog Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hugo-stack-theme-mod-phi.vercel.app/)
 
 
 
