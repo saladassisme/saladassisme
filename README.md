@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 1999 / infj-a / ♉Taurus / based in Shanghai, China / Gallup top 5 strengths: Learner → Significance → Ideation → Connectedness → Intelection
 - 📫 Find me at SNS: [douban](https://www.douban.com/people/163381607/?_i=1559361moRsVO2) | [bilibili](https://space.bilibili.com/18235453) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saladassisme&layout=compact)](https://github.com/saladassisme/github-readme-stats)
-
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuting0510@gmail.com)
 [![TG Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zarmstrong)
