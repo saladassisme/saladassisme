@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 [![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://d2nvkphgrw.feishu.cn/docs/doccnDaSfuwGGFxz3gnMtnE43fe?from=from_copylink)
 [![Blog Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hugo-stack-theme-mod-phi.vercel.app/)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+love+to+make+friends.;so+if+you+want+to+say+hi,;I'll+be+happy+to+meet+you+more!😊)](https://git.io/typing-svg)
+
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
