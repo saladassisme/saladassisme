@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](/header.png)
 
-- 🔫 I deal with **algorithms**, **product design** and **big data**.
+- 🔫 I deal with **algorithms** and **product design**.
 - 🔭 I’m currently working on using machine learning algorithms to solve industrial problems. 
 - 🌱 I’m currently learning **web3**, **web dev** and **deep learning**.
 - 🎃 I'm into tech / handcraft / karaoke / coffee.   
